@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    min-height: 100px;
+    background-color:white;
+    overflow: hidden;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+}
+
+
+.nav {
+    width: 60%;
+    float: right;
+    margin-top: 30px;
+}
+
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+    float: left;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: #516272;
+    padding: 0 10px;
+    font-size: 15px;
+}
+.nav ul li a:hover{
+    color: blue;
+    
+}
+
+.baner {
+    background-image: url(../images/real-estate-325276_960_720.jpg);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+        
+}
+
+.baner_text {
+   
+    
+    
+}
+.baner_text h3{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.baner_text h2{
+    color: lightblue;
+    font-size: 30px;
+    
+}
+.baner_text p{
+    color: white;
+     font-size: 20px;
+    
+}
+.baner_text button{
+    background-color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    
+    
+}
+
+.service {
+    overflow: hidden;
+    min-height: 300px;
+    background-color: aliceblue;
+    
+}
+
+
+
+.service_section {
+    overflow: hidden;
+}
+
+.content{
+    overflow: hidden;
+    
+}
+
+.service1 {
+    float: left;
+    width: 30%;
+}
+
+.content_image {
+    width: 40%;
+    float: left;
+    margin-top: 20px;
+    
+}
+.vail{
+    text-align: center;
+    margin-top: 20px;
+    color: darkblue;
+}
+.last{
+    text-align: center;
+     border: none;
+    border-radius: 4px;
+    margin-top: 10px;
+   
+    
+}
+
+.footer{
+    overflow: hidden;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: lightslategray;
+    height: 130px;
+
+}
+p1{
+    font-size: 20px;
+}
+p2{
+    font-size: 14px;
+}
+
+.nav_footer{
+  margin-top: 50p%;
+    text-align: center;
+    float: left;
+}
+ 
+
